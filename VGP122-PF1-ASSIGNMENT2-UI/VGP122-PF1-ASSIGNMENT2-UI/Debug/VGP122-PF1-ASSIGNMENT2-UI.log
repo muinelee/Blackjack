@@ -1,0 +1,54 @@
+﻿  Button.cpp
+  Card.cpp
+  Deck.cpp
+  Game.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Game.cpp(104,26): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  Image.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Image.cpp(3,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Image.cpp(3,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  InputManager.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\InputManager.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\InputManager.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  MenuScene.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\MenuScene.cpp(14,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Object.cpp
+  PlayScene.cpp
+  ResourceManager.cpp
+  Scene.cpp
+  SceneManager.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\SceneManager.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(3,195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(3,192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(72,33): warning C4018: '>=': signed/unsigned mismatch
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(95,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(96,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Sprite.cpp(112,25): warning C4018: '>=': signed/unsigned mismatch
+  Text.cpp
+  Vector2D.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Vector2D.cpp(202,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Vector2D.cpp(203,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Vector2D.cpp(210,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Vector2D.cpp(211,11): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Window.cpp
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Window.cpp(15,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\VGP122-PF1-ASSIGNMENT2-UI\Window.cpp(15,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  VGP122-PF1-ASSIGNMENT2-UI.vcxproj -> D:\02. VGP122 - Programming Fundamentals 1\Assignments\Assignment02\VGP122-PF1-ASSIGNMENT2-UI\Debug\VGP122-PF1-ASSIGNMENT2-UI.exe
